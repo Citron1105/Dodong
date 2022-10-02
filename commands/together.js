@@ -73,6 +73,10 @@ module.exports = new Command({
 					{
 						label: 'Know What I Meme',
 						value: '950505761862189096'
+					},
+					{
+						label: 'Bash Out',
+						value: '1006584476094177371'
 					}
 				]),
 		);
